@@ -1,0 +1,123 @@
+{
+  "delivery": [
+    {
+      "key": 1,
+      "name": "delive1",
+      "from": { "name": "place1", "lat": 55.589081, "lng": 37.417665 },
+      "to": { "name": "place2", "lat": 55.926192, "lng": 37.976657 }
+    },
+    {
+      "key": 2,
+      "name": "Очень длинное название",
+      "from": { "name": "place1", "lat": 55.589081, "lng": 37.417665 },
+      "to": { "name": "place3", "lat": 55.755763, "lng": 37.746585 }
+    },
+    {
+      "key": 3,
+      "name": "delive3",
+      "from": {
+        "name": "Длинное название места",
+        "lat": 55.742947,
+        "lng": 37.402782
+      },
+      "to": { "name": "place2", "lat": 55.926192, "lng": 37.976657 }
+    },
+    {
+      "key": 4,
+      "name": "delive4",
+      "from": { "name": "place1", "lat": 55.589081, "lng": 37.417665 },
+      "to": { "name": "place4", "lat": 55.742947, "lng": 37.402782 }
+    },
+    {
+      "key": 5,
+      "name": "delive4",
+      "from": { "name": "place1", "lat": 55.589081, "lng": 37.417665 },
+      "to": { "name": "place4", "lat": 55.742947, "lng": 37.402782 }
+    },
+    {
+      "key": 6,
+      "name": "delive4",
+      "from": { "name": "place1", "lat": 55.589081, "lng": 37.417665 },
+      "to": { "name": "place4", "lat": 55.742947, "lng": 37.402782 }
+    },
+    {
+      "key": 7,
+      "name": "delive4",
+      "from": { "name": "place1", "lat": 55.589081, "lng": 37.417665 },
+      "to": { "name": "place4", "lat": 55.742947, "lng": 37.402782 }
+    },
+    {
+      "key": 8,
+      "name": "delive4",
+      "from": { "name": "place1", "lat": 55.589081, "lng": 37.417665 },
+      "to": { "name": "place4", "lat": 55.742947, "lng": 37.402782 }
+    },
+    {
+      "key": 9,
+      "name": "delive4",
+      "from": { "name": "place1", "lat": 55.589081, "lng": 37.417665 },
+      "to": { "name": "place4", "lat": 55.742947, "lng": 37.402782 }
+    },
+    {
+      "key": 10,
+      "name": "delive4",
+      "from": { "name": "place1", "lat": 55.589081, "lng": 37.417665 },
+      "to": { "name": "place4", "lat": 55.742947, "lng": 37.402782 }
+    },
+    {
+      "key": 11,
+      "name": "delive4",
+      "from": { "name": "place1", "lat": 55.589081, "lng": 37.417665 },
+      "to": { "name": "place4", "lat": 55.742947, "lng": 37.402782 }
+    },
+    {
+      "key": 12,
+      "name": "delive4",
+      "from": { "name": "place1", "lat": 55.589081, "lng": 37.417665 },
+      "to": { "name": "place4", "lat": 55.742947, "lng": 37.402782 }
+    },
+    {
+      "key": 13,
+      "name": "delive4",
+      "from": { "name": "place1", "lat": 55.589081, "lng": 37.417665 },
+      "to": { "name": "place4", "lat": 55.742947, "lng": 37.402782 }
+    },
+    {
+      "key": 14,
+      "name": "delive4",
+      "from": { "name": "place1", "lat": 55.589081, "lng": 37.417665 },
+      "to": { "name": "place4", "lat": 55.742947, "lng": 37.402782 }
+    },
+    {
+      "key": 15,
+      "name": "delive4",
+      "from": { "name": "place1", "lat": 55.589081, "lng": 37.417665 },
+      "to": { "name": "place4", "lat": 55.742947, "lng": 37.402782 }
+    },
+    {
+      "key": 16,
+      "name": "delive4",
+      "from": { "name": "place1", "lat": 55.589081, "lng": 37.417665 },
+      "to": { "name": "place4", "lat": 55.742947, "lng": 37.402782 }
+    },
+    {
+      "key": 17,
+      "name": "delive4",
+      "from": { "name": "place1", "lat": 55.589081, "lng": 37.417665 },
+      "to": { "name": "place4", "lat": 55.742947, "lng": 37.402782 }
+    },
+    {
+      "key": 18,
+      "name": "delive4",
+      "from": { "name": "place1", "lat": 55.589081, "lng": 37.417665 },
+      "to": { "name": "place4", "lat": 55.742947, "lng": 37.402782 }
+    }
+  ],
+  "places": [
+    { "name": "place1", "lat": 55.589081, "lng": 37.417665 },
+    { "name": "place2", "lat": 55.926192, "lng": 37.976657 },
+    { "name": "place3", "lat": 55.755763, "lng": 37.746585 },
+    { "name": "place4", "lat": 55.755762, "lng": 37.746581 },
+    { "name": "Длинное название места", "lat": 55.742947, "lng": 37.402782 }
+  ]
+}

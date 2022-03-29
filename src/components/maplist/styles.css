@@ -1,0 +1,42 @@
+#map {
+  height: 100%;
+  width: 100%;
+}
+
+.layout {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.leftRow {
+  height: 100%;
+  min-width: 276px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  overflow: hidden;
+}
+
+.leftRow__btn {
+  width: 100%;
+  overflow: hidden;
+}
+
+.divider {
+  background-color: grey;
+  height: 100%;
+  width: 8px;
+  cursor: col-resize;
+}
+
+.divider:hover {
+  background-color: darkgray;
+}
+
+.rightRow {
+  height: 100%;
+  flex-grow: 1;
+}
